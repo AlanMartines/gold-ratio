@@ -18,7 +18,7 @@ python -m pip install dlib;
 
 python -m pip install scipy;
 
-python -m pip install Pillow
+python -m pip install Pillow;
 
 python -m pip install numpy;
 
