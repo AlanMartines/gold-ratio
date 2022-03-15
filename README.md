@@ -28,11 +28,23 @@ python3 -m pip face_recognition;
 
 ```
 
+## Set permission
+```sh
+chmod +x goldratio.py
+
+chmod +x facial_recognition.py
+```
+
 ## Run
 ```sh
 python3 goldratio.py
 
 python3 facial_recognition.py
+
+
+php -f goldratio.php
+
+php -f facial_recognition.php
 ```
 
 ## Notes
