@@ -3,7 +3,7 @@ Calculating the Golden Beauty Ratio of a Face
 
 ## Requirements
 You need the following installed:
-- Python
+- Python 3
 
 ## Dependences
 You need the following installed:
