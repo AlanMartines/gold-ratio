@@ -22,6 +22,8 @@ pip install matplotlib;
 
 pip install tensorflow;
 
+pip install tensorflow-gpu;
+
 pip face_recognition;
 
 ```
