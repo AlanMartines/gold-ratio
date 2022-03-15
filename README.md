@@ -22,8 +22,6 @@ python -m pip install matplotlib;
 
 python -m pip face_recognition
 
-python -m pip install dlib;
-
 ```
 
 ## Notes
