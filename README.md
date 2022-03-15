@@ -22,6 +22,8 @@ python -m pip install Pillow;
 
 python -m pip install numpy;
 
+python -m pip install matplotlib;
+
 ```
 
 ## Notes
