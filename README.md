@@ -20,6 +20,8 @@ python -m pip install numpy;
 
 python -m pip install matplotlib;
 
+python -m pip install tensorflow;
+
 python -m pip face_recognition
 
 ```
