@@ -12,13 +12,13 @@ sudo apt-get install -y cmake;
 
 python -m pip install cmake;
 
+python -m pip face_recognition
+
 python -m pip install dlib;
 
-python -m pip install scipy.constants;
+python -m pip install scipy;
 
-python -m pip install Image;
-
-python -m pip install ImageDraw;
+python -m pip install Pillow
 
 python -m pip install numpy;
 
