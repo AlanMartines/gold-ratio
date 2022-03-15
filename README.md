@@ -10,19 +10,19 @@ You need the following installed:
 ```sh
 sudo apt-get install -y cmake;
 
-python -m pip install cmake;
+pip install cmake;
 
-python -m pip install scipy;
+pip install scipy;
 
-python -m pip install Pillow;
+pip install Pillow;
 
-python -m pip install numpy;
+pip install numpy;
 
-python -m pip install matplotlib;
+pip install matplotlib;
 
-python -m pip install tensorflow;
+pip install tensorflow;
 
-python -m pip face_recognition
+pip face_recognition;
 
 ```
 
