@@ -10,22 +10,29 @@ You need the following installed:
 ```sh
 sudo apt-get install -y cmake;
 
-pip install cmake;
+python3 -m pip install cmake;
 
-pip install scipy;
+python3 -m pip install scipy;
 
-pip install Pillow;
+python3 -m pip install Pillow;
 
-pip install numpy;
+python3 -m pip install numpy;
 
-pip install matplotlib;
+python3 -m pip install matplotlib;
 
-pip install tensorflow;
+python3 -m pip install tensorflow;
 
-pip install tensorflow-gpu;
+python3 -m pip install tensorflow-gpu;
 
-pip face_recognition;
+python3 -m pip face_recognition;
 
+```
+
+## Run
+```sh
+python3 goldratio.py
+
+python3 facial_recognition.py
 ```
 
 ## Notes
